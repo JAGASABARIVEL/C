@@ -1,0 +1,30 @@
+================
+Data Structures:
+================
+
+1. Array 			[DONE]
+2. Stack 			
+   2.1. With static size	[DONE]
+   2.2. With dynamic size	[DONE]
+3. Queue				
+   3.1. With static size	[DONE]
+   3.2. With dynamic size	[DONE]
+4. Cirular Queue		
+   4.1. With static size	[DONE]
+   4.2. With dynamic size	[Not Started]
+5. Linked List
+   5.1. Singly linked list	[DONE]
+   5.2. Doubly linked list	[DONE]
+6. Cirular linked list
+   6.1. Singly linked list	[DONE]
+   6.2. Doubly linked list	[DONE]
+7. Binar search tree		[Not Started]
+8. AVL tree			[Not Started]
+9. Graphs			[Not Started]
+
+==========
+Algorithm:
+==========
+
+1. Sorting			[Not Started]
+2. Searching			[Not Started]
